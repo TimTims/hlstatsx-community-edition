@@ -1,3 +1,11 @@
+## Notice of Current Development - 16/05/2023
+
+The development of this specific repo is highly unstable and is suited towards my needs. Using this repo to update current stable versions of HLstats will result in it breaking.
+
+I take no responsibility for any issues, instabilities and breakages that occur when using my development of HLstats and will not provide support for this development.
+
+Thank you to [A1mDev](https://github.com/A1mDev/hlstatsx-community-edition) for your fixes for PHP8.
+
 ## HLstatsX : Community Edition
 
 
